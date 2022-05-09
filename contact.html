@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/general.css">
+    <link rel="stylesheet" href="styles/contact.css">
       <!-- google font Manrope -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,15 +22,23 @@
         </ul>
     </header>
     <main>
-        <form action="https://formsubmit.co/megaskatos@gmail.com" method="POST">
+
+        <section>
+
+        </section>
+        <section class="secondary-section">
+            <p>Para resolver tus inquietudes o agendar una visita de diagnóstico, déjanos tus datos, en breve responderemos.</p>
+            <form action="https://formsubmit.co/megaskatos@gmail.com" method="POST">
             <input type="hidden" name="_captcha" value="false">
-            <input type="text" name="name" placeholder="nombre" required>
-            <input type="email" name="email" placeholder="email" required>
-            <input type="tel" name="tel">
-            <textarea type="text" name="_subject" placeholder="asunto"></textarea>
+            <input type="text" name="name" placeholder="Nombre" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="tel" name="tel" placeholder="Teléfono">
+            <textarea type="text" name="_subject" placeholder="Asunto (250 caracteres max.)" maxlength="250"></textarea>
             <input type="hidden" name="_next" value="https://victor-amado.github.io/ascista/index.html">
             <button type="submit">ENVIAR</button>
         </form>
+        </section>
+       
     </main>
     <footer></footer>
 </html>
