@@ -4,26 +4,38 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/contact.css">
+    <title>Ascista S.A.S</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="./styles/contact.css">
       <!-- google font Manrope -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap" rel="stylesheet">
-    <title>Contacto Ascista</title>
+    <!-- librería de íconos font-awsome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <header>
+       <header>
         <ul>
             <li>
                 <div class="logo">
                     <img src="img/Logo.jpg" alt="Logo Ascista">
                 </div>
             </li>
-            <li class="menu"><a href="index.html">Quienes somos</a></li>
+            <li class="menu"><a href="index.html">Quiénes somos</a></li>
             <li class="menu"><a href="services.html">Servicios</a></li>
             <li class="menu"><a href="products.html">Productos</a></li>
             <li class="menu"><a href="contact.html">Contacto</a> </li>
-        </ul>
+            <li id="ham-menu"><i class="fa-solid fa-bars"></i></li>
+        </ul> 
+        <div class="mobile-menu hide">
+            <li><a href="index.html">Quiénes somos</a></li>
+            <li><a href="services.html">Servicios</a></li>
+            <li><a href="products.html">Productos</a></li>
+            <li><a href="contact.html">Contacto</a> </li> 
+        </div>
     </header>
     <main>
 
@@ -44,5 +56,14 @@
         </section>
        
     </main>
-    <footer></footer>
+   <footer>
+        <span>Síguenos en nuestras redes sociales</span>
+        <div class="logos-contact">
+            <a href="https://www.facebook.com/ascista" target="_blank"><i class="fa-brands fa-facebook-square fa-2xl"></i></a>
+            <a href="https://www.instagram.com/ascistasas/" target="_blank"><i class="fa-brands fa-instagram-square fa-2xl"></i></a>
+            <a href="https://www.youtube.com/channel/UCXbXLIX_K8a3hL7uoNCqAwg" target="_blank"><i class="fa-brands fa-youtube fa-2xl"></i></a>
+            <a href="tel:+573202923831" target="_blank"><i class="fa-solid fa-square-phone fa-2xl"></i></a>
+        </div>
+        <span>Manu84-bit © 2022 <a href="https://github.com/Manu84-bit" target="_blank"><i class="fa-brands fa-github-square fa-xl"></i></a></span>
+    </footer>
 </html>
