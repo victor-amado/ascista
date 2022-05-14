@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name":"Mr. White test product",
+    "category": "env",
+    "description": "Ultra wonderful cleaning product",
+    "image": "https://www.canadianlinen.com/UserFiles/Gateway_images/GateWay_CL-AllPurpose.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mega Helmet test product",
+    "description":"Ultra wonderful personal safety product",
+    "category": "personal",
+    "image": "https://assets.fishersci.com/TFS-Assets/CCG/EU/Honeywell-Safety-Products/product-images/IBSNo12642843.jpg-650.jpg"
+  },
+
+{
+    "id":3,
+    "name":"Ergonomic Sccissors test product",
+    "category":"logistic",
+    "description":"Ultra wonderful ergonomic product",
+    "image":"https://www.sdmmag.com/ext/resources/2012/2012-September-overflow/148-SDM0912-Products_bodyimage_45.jpg"
+},
+
+{
+    "id":4,
+    "name":"Safety process test product",
+    "category":"process",
+    "description":"Ultra wonderful safety product",
+    "image":"https://pragois.com/wp-content/uploads/2020/05/puerta-telescopica-batiente.jpg"
+}
+
+]
+
