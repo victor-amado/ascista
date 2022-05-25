@@ -36,7 +36,176 @@
     "category":"personal",
     "description": "Resistente a impactos verticales y laterales en cabeza, para trabajos en altura y espacios confinados.",
     "image":"https://i.imgur.com/fbSkhE5.jpg"
-  }
-
+  },
+ 
+  {
+   "id":6,
+    "name":"Casco tipo I",
+    "category":"personal",
+    "description": "Resistente a impactos verticales en cabeza, dieléctrico, para trabajos en obras y espacios abiertos.",
+    "image":"https://i.imgur.com/f9lLsvK.jpg"
+  },
+   
+  {
+   "id":7,
+    "name":"Respirador N95",
+    "category":"personal",
+    "description": "Respirador para material particulado, uso industrial y quirúrgico.",
+    "image":"https://i.imgur.com/jlUm0YX.jpg"
+    },
+  
+  {
+   "id":8,
+    "name":"Protector auditivo tipo copa",
+    "category":"personal",
+    "description": "Protector auditivo con soporte adaptable a casco. NRR 23dB.",
+    "image":"https://i.imgur.com/YUYTlgw.png"
+    },
+    
+  {
+   "id":9,
+    "name":"Protector facial para esmeril",
+    "category":"personal",
+    "description": "Protector facial en policarbonato, para actividades que generan material patirculado",
+    "image":"https://i.imgur.com/CSmeExX.jpg"
+    },
+      
+  {
+   "id":10,
+    "name":"Protector facial soldador",
+    "category":"personal",
+    "description": "Protector facial en polipropileno, para actividades de soldadura",
+    "image":"https://i.imgur.com/4lUw9Kl.jpg"
+    },
+      
+  {
+   "id":11,
+    "name":"Gafas para soldador",
+    "category":"personal",
+    "description": "Gafas para procesos de soldadura autógena y oxicorte",
+    "image":"https://i.imgur.com/2gYG2FZ.jpg"
+    },
+        
+  {
+   "id":12,
+    "name":"Protector auditivo de inserción",
+    "category":"personal",
+    "description": "Protector auditivo en goma, con o sin cordón, descartable",
+    "image":"https://i.imgur.com/pZc4ujw.jpg"
+    },
+          
+  {
+   "id":13,
+    "name":"Protector auditivo de inserción reutilizable",
+    "category":"personal",
+    "description": "Protector auditivo reutilizable con o sin caja",
+    "image":"https://i.imgur.com/yGVw2Pn.jpg"
+    },
+          
+  {
+   "id":14,
+    "name":"Protector auditivo de inserción tipo copa",
+    "category":"personal",
+    "description": "Protector auditivo con diadema gonómica",
+    "image":"https://i.imgur.com/iYUcr12.png"
+    },
+            
+  {
+   "id":15,
+    "name":"Gafas de seguridad",
+    "category":"personal",
+    "description": "Gafas de seguridad lente claro o lente oscuro con anti-fog",
+    "image":"https://i.imgur.com/kWqeqNK.jpg"
+    },
+              
+  {
+   "id":16,
+    "name":"Respirador para material particulado, N95",
+    "category":"personal",
+    "description": "Respirador plegable para material particulado N95, descartable",
+    "image":"https://i.imgur.com/Ag2D621.jpg"
+    },
+                
+  {
+   "id":17,
+    "name":"Respirador media cara",
+    "category":"personal",
+    "description": "Respirador media cara para usar con cartuchos filtrantes",
+    "image":"https://i.imgur.com/yrGyBXK.jpg"
+    },
+                  
+  {
+   "id":18,
+    "name":"Respirador rostro completo",
+    "category":"personal",
+    "description": "Respirador rostro completo, para usar con cartuchos filtrantes",
+    "image":"https://i.imgur.com/8ySYBDy.jpg"
+    },
+                    
+  {
+   "id":19,
+    "name":"Cartuchos filtantes",
+    "category":"personal",
+    "description": "Cartuchos filtrantes con carbon activado, para varias sustancias",
+    "image":"https://i.imgur.com/iYjBAFF.jpg"
+    },
+                      
+  {
+   "id":20,
+    "name":"Guantes soldador",
+    "category":"personal",
+    "description": "Guantes soldador en carnaza",
+    "image":"https://i.imgur.com/KczAxhP.jpg"
+    },
+                        
+  {
+   "id":21,
+    "name":"Guantes en carnaza",
+    "category":"personal",
+    "description": "Guantes en carnaza",
+    "image":"https://i.imgur.com/6YCTEUj.jpg"
+    },
+                         
+  {
+   "id":22,
+    "name":"Guantes de vaqueta flexibles",
+    "category":"personal",
+    "description": "Guantes de vaqueta flexibles",
+    "image":"https://i.imgur.com/FSGNhSw.jpg"
+    },
+                          
+  {
+   "id":23,
+    "name":"Guantes de uso general",
+    "category":"personal",
+    "description": "Guantes de nylon con refuerzo de nitrilo en palma",
+    "image":"https://i.imgur.com/9QG8T0H.jpg"
+    },
+                            
+  {
+   "id":24,
+    "name":"Monogafas de seguridad",
+    "category":"personal",
+    "description": "Monogafas con lente claro o lente oscuro, con ventilación directa  indirecta",
+    "image":"https://i.imgur.com/RWc2DRM.jpg"
+    },
+                            
+  {
+   "id":25,
+    "name":"Guante anticorte",
+    "category":"personal",
+    "description": "Guante en acero inoxidable anticorte",
+    "image":"https://i.imgur.com/DyvyMCJ.jpg" 
+    },
+                              
+  {
+   "id":26,
+    "name":"Guantes de nitrilo",
+    "category":"personal",
+    "description": "Guantes de nitrilo, para uso en industria química y alimentos",
+    "image":"https://i.imgur.com/ZEaddKT.jpg"
+    },
+                
+   
 ]
 
