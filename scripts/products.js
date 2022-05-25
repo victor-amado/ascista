@@ -5,7 +5,7 @@
   let categoryElements = document.querySelectorAll(".main-info h3");
   const cardContainer = document.querySelector(".card-container");
 
-  const pathjson = "scripts/products.json"
+  const pathjson =  "https://victor-amado.github.io/ascista/scripts/products.json"
     async function fetchProducts(path, categ="all") {
       try {
         const res = await fetch(path);
