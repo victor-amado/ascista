@@ -67,7 +67,7 @@
    "id":9,
     "name":"Protector facial para esmeril",
     "category":"personal",
-    "description": "Protector facial en policarbonato, para actividades que generan material patirculado",
+    "description": "Protector facial en policarbonato, para actividades que generan proyección de material patirculado",
     "image":"https://i.imgur.com/CSmeExX.jpg"
  },
       
@@ -89,25 +89,25 @@
         
 {
    "id":12,
-    "name":"Protector auditivo de inserción",
+    "name":"Protector auditivo",
     "category":"personal",
-    "description": "Protector auditivo en goma, con o sin cordón, descartable",
+    "description": "Protector auditivo de inserción en goma, con o sin cordón, descartable",
     "image":"https://i.imgur.com/pZc4ujw.jpg"
  },
           
 {
    "id":13,
-    "name":"Protector auditivo de inserción reutilizable",
+    "name":"Protector auditivo",
     "category":"personal",
-    "description": "Protector auditivo reutilizable con o sin caja",
+    "description": "Protector auditivo reutilizable con cordón, con o sin caja",
     "image":"https://i.imgur.com/yGVw2Pn.jpg"
  },
           
 {
    "id":14,
-    "name":"Protector auditivo de inserción tipo copa",
+    "name":"Protector auditivo tipo copa",
     "category":"personal",
-    "description": "Protector auditivo con diadema gonómica",
+    "description": "Protector auditivo con diadema ergonómica y altura ajustable",
     "image":"https://i.imgur.com/iYUcr12.png"
 },
             
@@ -131,7 +131,7 @@
    "id":17,
     "name":"Respirador media cara",
     "category":"personal",
-    "description": "Respirador media cara para usar con cartuchos filtrantes",
+    "description": "Respirador media cara, reutilizable para usar con cartuchos filtrantes",
     "image":"https://i.imgur.com/yrGyBXK.jpg"
 },
                   
@@ -139,7 +139,7 @@
    "id":18,
     "name":"Respirador rostro completo",
     "category":"personal",
-    "description": "Respirador rostro completo, para usar con cartuchos filtrantes",
+    "description": "Respirador rostro completo, reutilizable para usar con cartuchos filtrantes",
     "image":"https://i.imgur.com/8ySYBDy.jpg"
  },
                     
@@ -153,9 +153,9 @@
                       
 {
    "id":20,
-    "name":"Guantes soldador",
+    "name":"Guantes tipo soldador",
     "category":"personal",
-    "description": "Guantes soldador en carnaza",
+    "description": "Guantes elaborados en carnaza para protección por proyección de partículas calientes",
     "image":"https://i.imgur.com/KczAxhP.jpg"
  },
                         
@@ -163,7 +163,7 @@
    "id":21,
     "name":"Guantes en carnaza",
     "category":"personal",
-    "description": "Guantes en carnaza",
+    "description": "Guantes para manipulación de herramientas o materiales",
     "image":"https://i.imgur.com/6YCTEUj.jpg"
  },
                          
@@ -171,7 +171,7 @@
    "id":22,
     "name":"Guantes de vaqueta flexibles",
     "category":"personal",
-    "description": "Guantes de vaqueta flexibles",
+    "description": "Guantes para manipulación de herramientas o materiales, permiten realizar labores en alturas",
     "image":"https://i.imgur.com/FSGNhSw.jpg"
  },
                           
@@ -179,7 +179,7 @@
    "id":23,
     "name":"Guantes de uso general",
     "category":"personal",
-    "description": "Guantes de nylon con refuerzo de nitrilo en palma",
+    "description": "Guantes de nylon con refuerzo de nitrilo en palma, permite agarre de piezas pequeñas y trabajos de precisión",
     "image":"https://i.imgur.com/9QG8T0H.jpg"
  },
                             
@@ -187,7 +187,7 @@
    "id":24,
     "name":"Monogafas de seguridad",
     "category":"personal",
-    "description": "Monogafas con lente claro o lente oscuro, con ventilación directa  indirecta",
+    "description": "Monogafas con lente claro o lente oscuro, con ventilación directa e indirecta",
     "image":"https://i.imgur.com/RWc2DRM.jpg"
  },
                             
@@ -195,7 +195,7 @@
    "id":25,
     "name":"Guante anticorte",
     "category":"personal",
-    "description": "Guante en acero inoxidable anticorte",
+    "description": "Guante en acero inoxidable anticorte, para trabajar en alimentos procesos de corte de carnes",
     "image":"https://i.imgur.com/DyvyMCJ.jpg" 
 },
                               
@@ -203,10 +203,33 @@
    "id":26,
     "name":"Guantes de nitrilo",
     "category":"personal",
-    "description": "Guantes de nitrilo, para uso en industria química y alimentos",
+    "description": "Guantes para manipulación de sustancias químicas, uso en industria química y alimentos",
     "image":"https://i.imgur.com/ZEaddKT.jpg"
  }
                 
-   
+ {
+    "id": 27
+    "name":"Kit para contención de derrames",
+    "category": "env",
+    "description": "Kit para atender derrames hasta 5 galones.",
+    "image": "https://imgur.com/ArSAAXq"
+ },
+               
+ {
+    "id": 28
+    "name":"Kit para contención de derrames",
+    "category": "env",
+    "description": "Kit para atender derrames hasta 55 galones.",
+    "image": "https://imgur.com/ArSAAXq"
+ },
+              
+ {
+    "id": 29
+    "name":"Kit de material absorbente",
+    "category": "env",
+    "description": "Kit de materiales varios para absorción de sustancias varias",
+    "image": "https://imgur.com/ArSAAXq"
+ },
+
 ]
 
