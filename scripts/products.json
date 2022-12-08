@@ -212,7 +212,7 @@
     "name":"Kit para contención de derrames",
     "category": "env",
     "description": "Kit para atender derrames hasta 5 galones.",
-    "image": "https://imgur.com/ArSAAXq"
+    "image": "https://i.imgur.com/ArSAAXq.jpg"
  },
                
  {
@@ -220,7 +220,7 @@
     "name":"Kit para contención de derrames",
     "category": "env",
     "description": "Kit para atender derrames hasta 55 galones.",
-    "image": "https://imgur.com/ArSAAXq"
+    "image": "https://i.imgur.com/DUIIINA.jpg"
  },
               
  {
@@ -228,7 +228,23 @@
     "name":"Kit de material absorbente",
     "category": "env",
     "description": "Kit de materiales varios para absorción de sustancias varias",
-    "image": "https://imgur.com/ArSAAXq"
+    "image": "https://i.imgur.com/T76sllC.jpg"
+ },
+               
+ {
+    "id": 30,
+    "name":"Estiba para derrames",
+    "category": "env",
+    "description": "Estiba modular para contención de derrames. Viene en diferentes tamaños",
+    "image": "https://i.imgur.com/95gKz7H.jgp"
+ },
+              
+ {
+    "id": 31,
+    "name":"Guardian para productos químicos",
+    "category": "env",
+    "description": "Armario guardian para el almacenamiento y restricción de acceso de residuos peligrosos o productos químicos especiales",
+    "image": "https://i.imgur.com/ufbTR3y.jpg"
  }
 
 ]
