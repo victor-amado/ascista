@@ -208,7 +208,7 @@
  },
                 
  {
-    "id": 27
+    "id": 27,
     "name":"Kit para contención de derrames",
     "category": "env",
     "description": "Kit para atender derrames hasta 5 galones.",
@@ -216,7 +216,7 @@
  },
                
  {
-    "id": 28
+    "id": 28,
     "name":"Kit para contención de derrames",
     "category": "env",
     "description": "Kit para atender derrames hasta 55 galones.",
@@ -224,7 +224,7 @@
  },
               
  {
-    "id": 29
+    "id": 29,
     "name":"Kit de material absorbente",
     "category": "env",
     "description": "Kit de materiales varios para absorción de sustancias varias",
